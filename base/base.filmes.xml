@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Lançamentos===[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
+<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
+<externallink>https://0.0.0.0</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Ação===[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
+<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
+<externallink>https://0.0.0.0</externallink>
+</channel>
+
+
+
+
+
+
+  </channels>

@@ -4,18 +4,18 @@
 
 <channel>
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Lançamentos===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
-<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Lan%C3%A7amentos.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Ação===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
-<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink>https://0.0.0.0</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/A%C3%A7%C3%A3o.xml</externallink>
 </channel>
 
 

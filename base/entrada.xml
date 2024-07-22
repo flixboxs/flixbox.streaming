@@ -4,24 +4,24 @@
 
 <channel>
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] === ADDON TOPFLIX===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
-<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]Topflix  [/COLOR] * [COLOR white]Flimes[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addonTopflix[/COLOR]</info>
 <externallink>https://gitlab.com/flechanegra/addon/-/raw/main/teste22.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]Topflix  [/COLOR] * [COLOR white]Series [/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/HmIgNT4.png</thumbnail>
-<fanart>https://i.imgur.com/YbwYk7G.jpg</fanart>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Topflix   [/COLOR]</info>
 <externallink>https://gitlab.com/flechanegra/addon/-/raw/main/teste22.xml</externallink>
 </channel>

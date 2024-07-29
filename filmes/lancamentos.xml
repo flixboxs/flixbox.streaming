@@ -14,6 +14,22 @@
 <duration>4440</duration>
 <studio>PARAMOUNT+</studio> 
 <info>Quando Josh tem a oportunidade de uma vida inteira para fazer um teste para o musical da Broadway de Rainbow Puppy, Josh e Blue skidoo para Nova York pela primeira vez, onde conhecem novos amigos e descobrem a magia da música, dança e seguir os sonhos.</info> 
+   <streamdetails>
+            <video>
+                <codec>h264</codec>
+                <aspect>1.777778</aspect>
+                <width>1280</width>
+                <height>720</height>
+                <durationinseconds>281</durationinseconds>
+                <stereomode></stereomode>
+                <hdrtype></hdrtype>
+            </video>
+            <audio>
+                <codec>aac</codec>
+                <language>und</language>
+                <channels>6</channels>
+            </audio>
+        </streamdetails>
 </item>
 
 <item>

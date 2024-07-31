@@ -4,7 +4,17 @@
   
 
 <item>
-<title>[COLOR silver][B] UM TIRA DA PESADA: COLEÇÃO 4 FILMES [/COLOR][/B]</title>
+<title>[COLOR yellow][B] A Câmera do Demônio 2024 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:705ca3d70c1b7aa612956d7fe00cfdc9bb654fbe$$lsname=A Câmera do Demônio 2024</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eLpPX4rdmyDYOOq3qxisc64C1V.jpg</thumbnail>
+<genre>Terror</genre>
+<year>2024</year> 
+<fanart></fanart>
+<info>Dan é um estudante de fotografia que ganha de seu professor uma câmera profissional para usar no seu trabalho de conclusão.</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B] UM TIRA DA PESADA: COLEÇÃO 4 FILMES [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db1788a56ddc3fc7bc69c6fc14a9df10a7eba557$$lsname=UM TIRA DA PESADA IIII (2024)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f2121b5599f04bfe49520b9aa6ac6db9c31934$$lsname=UM TIRA DA PESADA III (1994)</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82d74b4cccb3e3090a967a32349a1b39194d59e0$$lsname=UM TIRA DA PESADA II (1987)</link>

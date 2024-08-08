@@ -2,13 +2,6 @@
 
 <channels>
 
-<channel>
-<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Lançamentos===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/</thumbnail>
-<fanart>https://i.imgur.com/</fanart>
-<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamentos.xml</externallink>
-</channel>
 
 <channel>
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Ação===[/COLOR][/B]</name>

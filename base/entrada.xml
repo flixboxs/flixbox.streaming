@@ -19,5 +19,13 @@
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]Topflix  [/COLOR] * [COLOR white]PlutoTv [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Topflix   [/COLOR]</info>
+<externallink></externallink>
+</channel>
+  
 
 </channels>

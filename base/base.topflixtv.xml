@@ -1,0 +1,62 @@
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83824
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action FHD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147696
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83261
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action HD [Alt]" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147697
+#EXTINF:-1 tvg-id="TC Action" tvg-name="Telecine Action SD" tvg-logo="https://i.imgur.com/w9Z62PS.png" group-title="Canais | Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83630
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83828
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult FHD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147698
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83262
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult HD [Alt]" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147699
+#EXTINF:-1 tvg-id="TC Cult" tvg-name="Telecine Cult SD" tvg-logo="https://i.imgur.com/jmM4aOu.png" group-title="Canais | Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83631
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83827
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun FHD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147700
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83263
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun HD [Alt]" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147701
+#EXTINF:-1 tvg-id="TC Fun" tvg-name="Telecine Fun SD" tvg-logo="https://i.imgur.com/2gMHClt.png" group-title="Canais | Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83632
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83826
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca FHD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147702
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83264
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca HD [Alt]" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147703
+#EXTINF:-1 tvg-id="TC Pipoca" tvg-name="Telecine Pipoca SD" tvg-logo="https://i.imgur.com/NGkDfOb.png" group-title="Canais | Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83633
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83823
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium FHD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147704
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83265
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium HD [Alt]" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147705
+#EXTINF:-1 tvg-id="TC Premium" tvg-name="Telecine Premium SD" tvg-logo="https://i.imgur.com/xvJlpaM.png" group-title="Canais | Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83634
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83825
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch FHD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147706
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83266
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch HD [Alt]" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/147707
+#EXTINF:-1 tvg-id="TC Touch" tvg-name="Telecine Touch SD" tvg-logo="https://i.imgur.com/4dRWqbU.png" group-title="Canais | Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green][B]Big Horse [B][/COLOR]&maxbitrate=0&buffer=2116&url=http://splaytv.club:80/Xvn6jh/6gU1Bj/83635

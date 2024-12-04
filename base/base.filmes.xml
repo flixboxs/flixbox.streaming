@@ -11,13 +11,6 @@
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/acao.xml</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Lancamentos===[/COLOR][/B]</name>
-<thumbnail>special://skin/extras\icons\apple.png</thumbnail>
-<fanart>https://i.imgur.com/</fanart>
-<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink>sources://video/</externallink>
-</channel>
 
 <channel>
 <name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Lancamentos===[/COLOR][/B]</name>

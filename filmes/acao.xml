@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
-<item>
-<title>A Avó</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://fle-2ggdmu8q-moo.com/download/jizmcvn40m8m</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg</thumbnail>
-<genre>Drama, Terror</genre>
-<fanart>https://image.tmdb.org/t/p/original/t6sTd4xrODKmAQiGUW3BWM60PzS.jpg</fanart>
-<info>Susana deixa sua vida em Paris, onde trabalha como modelo, e retorna a Madri para cuidar de sua av├│ Pilar.</info>
-<premiered>2022-01-28</premiered>
-</item>
   
 <item>
 <title>Kung Fu Panda 4</title>
@@ -22,8 +12,6 @@
 <info>Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro. Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.</info>
 <trailer>plugin://plugin.video.youtube/play/?video_id=XnQF9sqgZLE</trailer>
 <year>2024</year>
-<premiered>2024-03-13</premiered>
-<dateadded>2024-03-13 14:58:40</dateadded>
 </item>
 
 </items>

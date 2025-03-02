@@ -4,7 +4,7 @@
   
 <channel>
 <name>[B]Filmes[/B]</name>
-<thumbnail>https://i.imgur.com/</thumbnail>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Filmes.png</thumbnail>
 <fanart>https://img.freepik.com/fotos-gratis/variedade-de-elementos-de-cinema-em-fundo-vermelho-com-espaco-de-copia_23-2148457848.jpg</fanart>
 <info>Divirta-se melhores filmes com indireto </info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>

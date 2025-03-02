@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channels>
 
+<channel>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===Netflix ===[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
+<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/netflix.xml</externallink>
+</channel>
 
 <channel>
-<name>Animação</name>
-<thumbnail>special://skin/extras\icon\6-ESPECIAIS\016.png</thumbnail>
-<fanart>https://static.vecteezy.com/ti/vetor-gratis/t2/2191255-comic-halftone-background-template-vetor.jpg</fanart>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===HBO===[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
 <info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink>blob:https://github.com/230dff4a-7eca-44fa-b100-0df7a204a56e</externallink>
+<externallink></externallink>
 </channel>
 
 
-</channels>
+
+
+
+
+  </channels>

@@ -315,7 +315,7 @@
 <genre></genre>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>https://ia904601.us.archive.org/28/items/testebr/Donkey%20Kong%20Country%20%28U%29%20%28V1.2%29%20%5B%21%5D.smc</link>
+<link>PlayMedia("https://archive.org/download/testebr/Donkey%20Kong%20Country%20%28U%29%20%28V1.2%29%20%5B%21%5D.smc")</link>
 <info></info>
 </item>
 

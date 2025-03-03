@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>FILMES A-Z</name>
+<name>VER TODOS</name>
 <thumbnail>https://imgur.com/fa6mKiH.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>Gêneros</name>
+<name>GÊNEROS</name>
 <thumbnail>https://imgur.com/fa6mKiH.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>

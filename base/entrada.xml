@@ -18,5 +18,13 @@
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
 </channel>
 
+<channel>
+<name>[B]TV ao Vivo[/B]</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Séries.png</thumbnail>
+<fanart>https://i.imgur.com/</fanart>
+<info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Topflix   [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.series.xml</externallink>
+</channel>
+
   
 </channels>

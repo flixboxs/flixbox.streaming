@@ -8,7 +8,6 @@
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Topflix   [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/tv.xml</externallink>
-<visible>Skin.HasSetting(touchmode)</visible>
 </channel>
   
 <channel>

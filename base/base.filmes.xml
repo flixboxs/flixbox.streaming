@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>VER TODOS</name>
+<name>LANÇAMENTOS</name>
 <thumbnail>https://imgur.com/fa6mKiH.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
@@ -21,11 +21,12 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===HBO===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/</thumbnail>
-<fanart>https://i.imgur.com/</fanart>
-<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink></externallink>
+<name>VER TODOS</name>
+<thumbnail>https://imgur.com/fa6mKiH.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>
 </channel>
 
 

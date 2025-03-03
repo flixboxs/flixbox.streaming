@@ -14,7 +14,7 @@
 <name>[B]Filmes[/B]</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Filmes.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>Divirta-se melhores filmes com indireto </info>
+<info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/base.filmes.xml</externallink>
 </channel>
 

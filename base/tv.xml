@@ -7,10 +7,12 @@
 <thumbnail>https://imgur.com/fa6mKiH.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
-<info>O sinal aberto ou free-to-air (FTA) é uma forma utilizada para se referir ao sinal de televisão e rádio que não foi criptografado. Normalmente o sinal é transmitido via satélite, mas existem algumas emissoras que transmitem o sinal nas bandas VHF ou UHF.
-Pequena antena para captar sinais FTA de satélites.
-
-Contudo, estes canais, que aparentemente são gratuitos, na verdade são pagos. Alguns são pagos directamente através do pagamento de uma taxa de licença ou uma contribuição audiovisual, como são os casos da BBC no Reino Unido ou da RTP em Portugal, ou através de doações voluntárias, como acontece com a emissora americana PBS. Estes operadores são públicos e esta taxa serve como garantia da sua independência perante o poder político e económico. Os operadores privados ou comerciais recebem grande parte do financiamento através de publicidade ou de outros proveitos comerciais como chamadas de valor acrescentando, pagando o espectador assim indirectamente para a existência dos mesmos. </info>
+<info>Canais abertos são canais de televisão transmitidos gratuitamente. No Brasil, os principais canais abertos são: 
+Band, Globo, Record, RedeTV, SBT, TV Brasil, TV Cultura, TV Gazeta, TV Aparecida, Rede Vida.
+A TV aberta é um serviço gratuito oferecido pelas emissoras de televisão abertas. A remuneração é feita por publicidade e merchandising. 
+A forma mais tradicional de assistir aos canais de TV aberta é por meio de uma antena digital. No entanto, para quem não pode instalar uma antena, há a opção do streaming oferecido pelas operadoras de TV aberta. 
+Alguns serviços de streaming que disponibilizam canais abertos são: Zapping. 
+</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/tv/abertos.xml</externallink>
 </channel>
 

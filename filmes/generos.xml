@@ -12,6 +12,15 @@
 </channel>
 
 <channel>
+<name>Aventura</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Aventura.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
 <name>Ação</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
@@ -22,8 +31,17 @@
 
 
 <channel>
-<name>Aventura</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Aventura.png</thumbnail>
+<name>Cinema TV</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Comédia</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
 <info>Principais recomendações de filmes de animação</info>
@@ -31,7 +49,131 @@
 </channel>
 
 
+<channel>
+<name>Crime</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
 
+<channel>
+<name>Documentário</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Drama</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Família</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Fantasia</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Faroeste</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Ficção científica</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Guerra</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>História</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Mistério</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Música</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Romance</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Terror</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
+
+<channel>
+<name>Thriller</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Ação.png</thumbnail>
+<poster>https://imgur.com/fa6mKiH.png</poster>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Action.xml</externallink>
+</channel>
 
 
 

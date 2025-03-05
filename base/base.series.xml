@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>Dragon Ball DAIMA</name>
+<name>LANÇAMENTOS</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
 <info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
@@ -11,11 +11,28 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime][/COLOR] [COLOR yellow] ===HBO===[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/</thumbnail>
-<fanart>https://i.imgur.com/</fanart>
-<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon Topflix . [/COLOR]</info>
-<externallink></externallink>
+<name>GÊNEROS</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/s%C3%A9ries/netflix.xml</externallink>
+</channel>
+
+<channel>
+<name>EPISÓDIOS</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/s%C3%A9ries/netflix.xml</externallink>
+</channel>
+
+
+<channel>
+<name>TODOS</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/s%C3%A9ries/netflix.xml</externallink>
 </channel>
 
 

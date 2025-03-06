@@ -30,7 +30,7 @@
 
 <channel>
 <name>VER TODOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Gtodos.png</thumbnail>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>

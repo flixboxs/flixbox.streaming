@@ -5,7 +5,7 @@
 <channel>
 <name>LANÇAMENTOS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Lançamentos.png</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamento.xml</externallink>
 </channel>
@@ -13,8 +13,7 @@
 <channel>
 <name>COLETÂNEAS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Coletâneas.png</thumbnail>
-<poster>https://imgur.com/fa6mKiH.png</poster>
-<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>
 </channel>
@@ -23,7 +22,7 @@
 <name>GÊNEROS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Gêneros.png</thumbnail>
 <poster>https://imgur.com/fa6mKiH.png</poster>
-<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>
 </channel>
@@ -31,7 +30,7 @@
 <channel>
 <name>VER TODOS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
 </channel>

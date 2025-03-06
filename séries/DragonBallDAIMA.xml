@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
 
-<!-- FILMES A INICIAL-->
-<item>
-<title>Dragon Ball DAIMA</title>
-<year>2024</year>
-<genre>Animação, Action & Adventure, Comédia</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
-<link>https://shorturl.at/QUEFx</link>
-<info>Um castelo em um mundo misterioso. Dois Majins suspeitos observam uma tela. Eles se chamam Gomah e Degesu. A tela mostra Goku e os outros em uma luta contra Majin Boo. Gomah e Degesu partem rumo à Terra para executar uma certa conspiração.</info>
-</item>
-<!-- FILMES A FINAL-->
+<channels>
+
+<channel>
+<name>Animação</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Animação.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg</fanart>
+<info>Principais recomendações de filmes de animação</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/Animation.xml</externallink>
+</channel>
 
 
-</items>
+  </channels>

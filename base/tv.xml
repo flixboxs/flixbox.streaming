@@ -5,7 +5,7 @@
 <channel>
 <name>CANAIS POPULARES</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Canais populares.png</thumbnail>
-<fanart>https://img.freepik.com/fotos-premium/servidores-iptv_225486-5204.jpg?semt=ais_hybrid</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>Canais abertos são canais de televisão transmitidos gratuitamente. No Brasil, os principais canais abertos são: 
 Band, Globo, Record, RedeTV, SBT, TV Brasil, TV Cultura, TV Gazeta, TV Aparecida, Rede Vida.
 A TV aberta é um serviço gratuito oferecido pelas emissoras de televisão abertas. A remuneração é feita por publicidade e merchandising. 
@@ -18,7 +18,7 @@ Alguns serviços de streaming que disponibilizam canais abertos são: Zapping.
 <channel>
 <name>CANAIS ABERTOS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\canais abertos.png</thumbnail>
-<fanart>https://img.freepik.com/fotos-premium/servidores-iptv_225486-5204.jpg?semt=ais_hybrid</fanart>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>Canais abertos são canais de televisão transmitidos gratuitamente. No Brasil, os principais canais abertos são: 
 Band, Globo, Record, RedeTV, SBT, TV Brasil, TV Cultura, TV Gazeta, TV Aparecida, Rede Vida.
 A TV aberta é um serviço gratuito oferecido pelas emissoras de televisão abertas. A remuneração é feita por publicidade e merchandising. 

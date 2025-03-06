@@ -21,7 +21,6 @@
 <channel>
 <name>GÊNEROS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Gêneros.png</thumbnail>
-<poster>https://imgur.com/fa6mKiH.png</poster>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>

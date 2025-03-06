@@ -2,7 +2,7 @@
 <items>
 
 <!-- FILMES A INICIAL-->
-<item>
+<channel>
 <title>Dragon Ball DAIMA</title>
 <year>2024</year>
 <genre>Animação, Action & Adventure, Comédia</genre>
@@ -10,7 +10,7 @@
 <fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/s%C3%A9ries/DragonBallDAIMA.xml</externallink>
 <info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
-</item>
+</channel>
 <!-- FILMES A FINAL-->
 
 

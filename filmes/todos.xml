@@ -1,40 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<!-- FILMES A INICIAL-->
+<item>
+<title></title>
+<year></year>
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<link></link>
+<info></info>
+</item>
+<!-- FILMES A FINAL-->
+
 <!-- FILMES B INICIAL-->
 <item>
-<title>Bee Movie: A História de uma Abelha</title>
-<year>2007</year>
-<genre>Família, Animação, Aventura, Comédia</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lGkhjR3EQSNH0v0QHkgm1gStHX0.jpg</fanart>
-<link>https://1a-1791.com/video/fwe2/01/s8/2/y/G/1/2/yG12x.gaa.mp4</link>
-<info>O ambicioso jovem Barry B. Benson cai no mundo com os respeitados Ases do Pólen em busca de néctar e aventura. Mas quando quebra uma das regras fundamentais do mundo das abelhas e fala com humanos, Barry provoca uma incrível série de fatos, que provam que até uma pequena abelha pode fazer a grande diferença!
-</info>
+<title></title>
+<year></year>
+<genre></genre>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<info></info>
 </item>
 <!-- FILMES B FINAL-->
-
-<!-- FILMES G INICIAL-->
-<item>
-<title>Gato de Botas 2: O Último Pedido</title>
-<year>05/01/2023</year>
-<genre>Animação, Aventura, Fantasia, Comédia, Família</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/uMAuugfqY39bCFvtLCYLt2lUdbE.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/b1Y8SUb12gPHCSSSNlbX4nB3IKy.jpg</fanart>
-<link>https://1a-1791.com/video/fwe1/8c/s8/2/u/I/-/a/uI-ax.gaa.mp4</link>
-<info>O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</info>
-</item>
-
-<item>
-<title>Gato de Botas</title>
-<year>09/12/2011</year>
-<genre>Animação, Família, Fantasia, Aventura, Comédia</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/rFs9zpddiT45Sx3FsUshdVZJEFl.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9Jf5uqvxGfpd0lXUB71iglugrjM.jpg</fanart>
-<link>https://1a-1791.com/video/fwe1/dd/s8/2/J/P/q/m/JPqmx.gaa.mp4</link>
-<info>Conheceremos o divertido Gato de Botas desde seu nascimento, como um fofo gatinho, até ele se tornar o felino visto em Shrek. No filme, Gato de Botas irá se juntar a mais dois amigos, Humpty e Kitty para tentar capturar a famosa e cobiçada galinha que põe ovo de ouro. Será que essa quadrilha vai conseguir concretizar o plano?</info>
-</item>
-<!-- FILMES G FINAL-->
 
 
 </items>

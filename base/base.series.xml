@@ -7,7 +7,7 @@
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Lançamentos.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamento.xml</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/lancamento.xml</externallink>
 </channel>
 
 <channel>
@@ -15,7 +15,7 @@
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/todos.xml</externallink>
 </channel>
 
 

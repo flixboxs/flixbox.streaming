@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<!-- FILMES A INICIAL-->
 <item>
 <title></title>
 <year></year>
@@ -12,9 +12,9 @@
 <link></link>
 <info></info>
 </item>
+<!-- FILMES A FINAL-->
 
-
-<!-- FILMES M INICIAL-->
+<!-- FILMES B INICIAL-->
 <item>
 <title></title>
 <year></year>
@@ -24,7 +24,7 @@
 <link></link>
 <info></info>
 </item>
-<!-- FILMES M FINAL-->
+<!-- FILMES B FINAL-->
 
 
 </items>

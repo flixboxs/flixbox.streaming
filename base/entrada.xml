@@ -7,11 +7,7 @@
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\TV ao Vivo.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao addon Topflix   [/COLOR]</info>
-<<<<<<< HEAD
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/tv.xml</externallink>
-=======
-<externallink>https://github.com/flixboxs/flixbox.streaming/blob/main/base/abertos.xml</externallink>
->>>>>>> 9baa7e180d7cb6f9756ff1baa3766a68cb05b9cd
+<externallink>https://github.com/flixboxs/flixbox.streaming/blob/main/base/tv.xml</externallink>
 </channel>
   
 <channel>

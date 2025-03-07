@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-
+<!-- SERIES D INICIAL-->
 <channel>
 <name>Dragon Ball DAIMA</name>
 <genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
@@ -10,15 +10,7 @@
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series\series\Dragon.Ball.DAIMA.xml</externallink>
 </channel>
-
-<channel>
-<name>VER TODOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/todos.xml</externallink>
-</channel>
-
+<!-- SERIES D INICIAL-->
 
 
 

@@ -11,22 +11,6 @@
 </channel>
 
 <channel>
-<name>COLETÂNEAS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Coletâneas.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>
-</channel>
-
-<channel>
-<name>GÊNEROS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Gêneros.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/generos.xml</externallink>
-</channel>
-
-<channel>
 <name>VER TODOS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>

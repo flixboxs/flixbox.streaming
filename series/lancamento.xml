@@ -10,6 +10,15 @@
 <info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/01.xml</externallink>
 </channel>
+
+<channel>
+<name>Demolidor: Renascido</name>
+<genre>Drama, Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg</fanart>
+<info>Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/02.xml</externallink>
+</channel>
 <!-- SERIES D INICIAL-->
 
 

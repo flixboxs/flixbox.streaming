@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>2025</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Lançamentos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamento.xml</externallink>
+</channel>
+
+<channel>
+<name>2024</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+<channel>
+<name>2023</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+<channel>
+<name>2022</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+<channel>
+<name>2021</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2020</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2019</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2018</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2017</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2016</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+
+<channel>
+<name>2015</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+
+<channel>
+<name>2014</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>2013</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<info>divirta-se assistindo melhores filmes com link direto</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
+</channel>
+
+
+
+
+
+
+
+
+  </channels>

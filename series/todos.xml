@@ -12,6 +12,15 @@
 </channel>
 
 <channel>
+<name>Baki Hanma</name>
+<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/m6qcOPFIkqUOo87g6sP2371lolB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wHEZQxLSHRDzpNQbD5ZITYg6lE3.jpg</fanart>
+<info>Para ganhar as habilidades de que precisa para superar o pai, Baki entra na Prisão Estadual do Arizona e enfrenta um famoso detento conhecido como Sr. Indomável.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/04.xml</externallink>
+</channel>
+
+<channel>
 <name>Demolidor: Renascido</name>
 <genre>Drama, Crime</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>

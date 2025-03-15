@@ -35,14 +35,5 @@
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/base/Trailers.xml</externallink>
 </channel>
 
-
-<channel>
-<name>[B]TESTE[/B]</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Trailers.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>DIVIRTA-SE ASSISTINDO AS MELHORES SÉRIES / ANIMES COM LINK DIRETO</info>
-<externallink>special://home/addons/Anonimo\resources\media\icons\abertos.xml</externallink>
-</channel>
-
   
 </channels>

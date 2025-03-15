@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-
+<!-- SERIES D INICIAL-->
 <channel>
-<title>INVENCÍVEL</title>
-<year>2021</year>
-<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/uZaLC2IxPgGI68m2W0eva8pPvaI.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dfmPbyeZZSz3bekeESvMJaH91gS.jpg</fanart>
-<info>Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/series/03.xml</externallink>
+<name>Dragon Ball DAIMA</name>
+<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/qlLJvJO8rsltmnWWbKgT13hP90I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no "Mundo dos Demônios", um misterioso Majin chamado Glorio aparece para eles.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/01.xml</externallink>
 </channel>
 
+<channel>
+<name>Demolidor: Renascido</name>
+<genre>Drama, Crime</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg</fanart>
+<info>Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/02.xml</externallink>
+</channel>
+
+<channel>
+<name>INVENCÍVEL</name>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/29myVHhdGoS735ZJ9hblY0pQ3K9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dfmPbyeZZSz3bekeESvMJaH91gS.jpg</fanart>
+<info>Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/03.xml</externallink>
+</channel>
+<!-- SERIES D INICIAL-->
 
 
- </channels>
+
+
+
+  </channels>

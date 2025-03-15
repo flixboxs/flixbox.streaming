@@ -3,23 +3,14 @@
 <channels>
 
 <channel>
-<name>LANÇAMENTOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Lançamentos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/lancamento.xml</externallink>
+<title>INVENCÍVEL</title>
+<year>2021</year>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/uZaLC2IxPgGI68m2W0eva8pPvaI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dfmPbyeZZSz3bekeESvMJaH91gS.jpg</fanart>
+<info>Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/03.xml</externallink>
 </channel>
-
-<channel>
-<name>VER TODOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
-<info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/todos.xml</externallink>
-</channel>
-
-
-
 
 
 

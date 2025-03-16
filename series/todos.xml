@@ -11,6 +11,14 @@
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/01.xml</externallink>
 </channel>
 
+<channel>Mania de VocêDragon Ball DAIMA</name>
+<genre>Soap, Drama, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xeJJZE8yC09lRbiV2f2hqURJmhd.jpg</fanart>
+<info>No cenário paradisíaco de Angra dos Reis, duas mulheres têm seus destinos entrelaçados em um jogo de amor, poder e obsessão, que muda a trajetória de suas vidas para sempre.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/05.xml</externallink>
+</channel>
+
 <channel>
 <name>Baki Hanma</name>
 <genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>

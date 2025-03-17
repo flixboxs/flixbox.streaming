@@ -39,12 +39,21 @@
 </channel>
 
 <channel>
+<name>Reacher</name>
+<genre>Action & Adventure, Crime, Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/31GlRQMiDunO8cl3NxTz34U64rf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg</fanart>
+<info>Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/02.xml</externallink>
+</channel>
+
+<channel>
 <name>Demolidor: Renascido</name>
 <genre>Drama, Crime</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg</fanart>
 <info>Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente.</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/02.xml</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/series/S%C3%A9ries/Reacher%20(2022)/Reacher%20(2022).xml</externallink>
 </channel>
 
 <channel>

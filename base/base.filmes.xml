@@ -19,11 +19,11 @@
 </channel>
 
 <channel>
-<name>GÊNEROS</name>
+<name>COLETÂNEAS</name>
 <thumbnail>special://home/addons/Anonimo\resources\media\icons\Coletâneas.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/G%C3%AAneros.xml</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/Colet%C3%A2neas.xml</externallink>
 </channel>
 
 <channel>

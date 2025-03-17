@@ -205,13 +205,13 @@
 <info>Shrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma versão distorcida de Tão, Tão Distante - onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontraram - ele decide restaurar o seu mundo e recuperar seu verdadeiro amor.</info>
 </item>
 
-<channel>
+<item>
 <name>Shrek: Coleção</name>
 <genre>Animação, Família, Comédia, Fantasia, Aventura</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/qHeyupQEoDUdNfppQDl6LQcncUK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/9TVbQKKXZ3lKcanUh5TESnlVszT.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/Colet%C3%A2neas/Shrek%20Cole%C3%A7%C3%A3o.xml</externallink>
-</channel>
+</item>
 
 <item>
 <title></title>

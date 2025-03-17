@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<!-- SERIES D INICIAL-->
+<channel>
+<name>Temporada 1</name>
+<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>A 1ª temporada de Reacher começou a ser exibida em 2 de fevereiro de 2022.
+
+Baseado em "Killing Floor" Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma conspiração mortal cheia de policiais sujos, empresários duvidosos e políticos intrigantes. Com nada além de sua inteligência, ele deve descobrir o que está acontecendo em Margrave, na Geórgia.</info>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/series/01.xml</externallink>
+</channel>
+
+
+  </channels>

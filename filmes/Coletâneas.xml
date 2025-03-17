@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>A Era do Gelo: Coleção</name>
+<genre>Animação, Comédia, Família, Aventura</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/cOP1gtBNx25BunCFtGVRoSOYyqZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mk6m850cpuYAZFrrPXm46hrHC7s.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/Colet%C3%A2neas/A%20Era%20do%20Gelo%20Cole%C3%A7%C3%A3o.xml</externallink>
+</channel>
+
+<channel>
 <name>Shrek: Coleção</name>
 <genre>Animação, Família, Comédia, Fantasia, Aventura</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/FlCOvuibrkww69JUcXLy3pOCBw.jpg</thumbnail>

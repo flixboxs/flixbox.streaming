@@ -3,11 +3,11 @@
 <channels>
 
 <channel>
-<name>2025</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Anos.png</thumbnail>
+<name>Animação</name>
+<thumbnail>special://home/addons/Anonimo\resources\media\icons\Animação.png</thumbnail>
 <fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
 <info>DIVIRTA-SE ASSISTINDO MELHORES FILMES DE 2025</info>
-<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamento.xml</externallink>
+<externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/G%C3%AAneros/Animation.xml</externallink>
 </channel>
 
 

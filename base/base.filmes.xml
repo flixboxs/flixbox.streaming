@@ -4,40 +4,40 @@
 
 <channel>
 <name>LANÇAMENTOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Lançamentos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Lançamentos.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/lancamento.xml</externallink>
 </channel>
 
 <channel>
 <name>GÊNEROS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Gêneros.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Gêneros.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/G%C3%AAneros.xml</externallink>
 </channel>
 
 <channel>
 <name>COLETÂNEAS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Coletâneas.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Coletâneas.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/refs/heads/main/filmes/Colet%C3%A2neas.xml</externallink>
 </channel>
 
 <channel>
 <name>ANOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\Anos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\Anos.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/anos.xml</externallink>
 </channel>
 
 <channel>
 <name>VER TODOS</name>
-<thumbnail>special://home/addons/Anonimo\resources\media\icons\todos.png</thumbnail>
-<fanart>special://home/addons/Anonimo\fanart.jpg</fanart>
+<thumbnail>special://home/addons/plugin.video.anonimo\resources\media\icons\todos.png</thumbnail>
+<fanart>special://home/addons/plugin.video.anonimo\fanart.jpg</fanart>
 <info>divirta-se assistindo melhores filmes com link direto</info>
 <externallink>https://raw.githubusercontent.com/flixboxs/flixbox.streaming/main/filmes/todos.xml</externallink>
 </channel>
